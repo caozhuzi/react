@@ -8,18 +8,16 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          /* 加个注释 */
           <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          欢迎来到菜鸟教程 <br/>
           <a
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
+            rel="noopener noreferrer">
+            欢迎来到菜鸟教程
           </a>
+          </p>
         </header>
       </div>
     );
